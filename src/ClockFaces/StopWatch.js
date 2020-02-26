@@ -198,3 +198,29 @@ const Styles = StyleSheet.create({
             letterSpacing:3,
         },
 })
+
+// import React, { Component } from 'react'
+// import { Text, StyleSheet,View,StatusBar,SafeAreaView } from 'react-native'
+// import Header from '../components/Header.js';
+
+
+
+
+// export default class StopWatch extends Component {
+//     render() {
+//         return (
+//             <>
+//                 <StatusBar backgroundColor="#fe42d9"  barStyle="light-content" />
+//                   <Header text="" title="StopWatch"/> 
+//                     <SafeAreaView style={Styles.container}>
+//                         <View contentInsetAdjustmentBehavior="automatic" >
+                        
+//                         </View>
+//                     </SafeAreaView>
+//             </>
+           
+//         )
+//     }
+// }
+
+// const Styles = StyleSheet.create({})
